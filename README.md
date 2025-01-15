@@ -1,2 +1,2 @@
-# frontend-mentor-challenge
-Frontend Mentor website project challenges.
+# frontend-mentor-challenges
+Frontend Mentor website projects challenges.
